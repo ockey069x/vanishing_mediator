@@ -1,3 +1,6 @@
 20120613
 First use Git.
 ¥^-0987654321
+git add MEMO
+git commit -m 'second commit'
+git push origin master
